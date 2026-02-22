@@ -21,6 +21,8 @@
 
 The dataset consists of a 1000-sample training set (I divided that as 800 training and 200 validation) and a 200-sample test set.
 
+_NOTE: I collected the data directly modifying and running `homework1.py`._
+
 ---
 
 ## 1. Position Prediction

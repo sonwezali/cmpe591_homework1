@@ -103,7 +103,7 @@ if __name__ == "__main__":
     multiprocessing.set_start_method("spawn")
     processes = []
     for i in range(4):
-        p = Process(target=collect, args=(i, 50))
+        p = Process(target=collect, args=(i, 50))  # THE FINAL VERSION TO COLLECT TEST DATA (4 x 50 = 200)
         p.start()
         processes.append(p)
     for p in processes:
