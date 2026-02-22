@@ -6,7 +6,7 @@
 .
 ├── dataset/                    # Directory containing all generated training and testing .pt data
 ├── figures/                    
-├── models/                     # Directory containing CNN models (MLP models are large to upload)
+├── models/                     # Directory containing the weights of the models
 ├── cmpe591_hw1.ipynb           # Jupyter Notebook containing everything 
 ├── environment.py              # Provided script
 ├── homework1.py                # Provided script
