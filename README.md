@@ -6,16 +6,13 @@
 .
 ├── dataset/                    # Directory containing all generated training and testing .pt data
 ├── figures/                    
+├── models/                     # Directory containing CNN models (MLP models are large to upload)
 ├── cmpe591_hw1.ipynb           # Jupyter Notebook containing everything 
 ├── environment.py              # Provided script
 ├── homework1.py                # Provided script
 ├── img_both.py                 # Image Generation models (ImgMLP & ImgCNN. I wanted to test both.)
 ├── pos_CNN.py                  # Position Prediction CNN
 ├── pos_MLP.py                  # Position Prediction MLP
-├── ImgCNN_weights.pth          
-├── ImgMLP_weights.pth          
-├── PositionCNN_weights.pth     
-├── PositionMLP_weights.pth     
 └── README.md                   
 ```
 
